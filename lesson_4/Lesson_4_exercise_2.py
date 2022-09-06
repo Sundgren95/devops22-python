@@ -8,3 +8,4 @@ if name in names:
     print(f'Welcome {name.capitalize()} you are on the list')
 else:
     print(f'Sorry, you are not on the list')
+    

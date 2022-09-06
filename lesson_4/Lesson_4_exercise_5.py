@@ -6,5 +6,4 @@ while True:
     if stop == "stop" :
         break
     else:
-        print(f'You wrote: {stop} and the length is: {len(stop)}')
-    
+        print(f'You wrote: {stop} and the length is: {len(stop)}')   
